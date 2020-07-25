@@ -13,4 +13,5 @@ I am a strong believer in education, continuous learning and helping o
 <a href="https://github.com/Akbarsait"><img src="https://img.shields.io/github/followers/Akbarsait?label=GitHub&style=social" alt="GitHub"></a>
 
 ---
-⭐️ From [Akbarsait](https://www.akbarsait.com/)
+⭐️ From [Akbarsait](https://www.akbarsait.com/)<br>
+<!--[![Akbarsait's github stats](https://github-readme-stats.vercel.app/api?username=akbarsait&count_private=true&hide=contribs,prs)](https://github.com/akbarsait/github-readme-stats)-->
