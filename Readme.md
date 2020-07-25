@@ -1,5 +1,6 @@
-<img src="https://source.unsplash.com/user/akbarsait/540x1920"/>
-<sup>Photo by [Akbarsait](https://unsplash.com/@akbarsait) on [Unsplash](https://unsplash.com/)</sup>
+<img src="https://source.unsplash.com/user/akbarsait/800x400"/>
+
+Photo by [Akbarsait](https://unsplash.com/@akbarsait) on [Unsplash](https://unsplash.com/)
 
 # Hello 👋🏾
 
