@@ -4,7 +4,7 @@ Photo by [Akbarsait](https://unsplash.com/@akbarsait) on [Unsplash](https://unsp
 
 # Hello 👋🏾
 
-I am Akbarsait Noormohamed (Akbar). A proud husband and dad of two lovely kids. I work as a tech consultant in Toronto, Canada. An avid learner of web and data platforms and a practicing CFML, Python, Cloud, and Agile Enthusiast, and an all-time Android fan.
+I am Akbarsait Noormohamed (Akbar). Husband and father of two lovely kids. I work as a tech consultant in Toronto, Canada. An avid learner of web and data platforms and a practicing Data, CFML, Python, Cloud, and Agile Enthusiast, and an all-time Android fan.
 
 A firm believer in education, continuous learning, and helping one another are the core principles that elevate people.
 
