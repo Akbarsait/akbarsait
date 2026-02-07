@@ -3,7 +3,7 @@ name: Update Unsplash Photo
 on:
   schedule:
     - cron: '0 8 * * *' # Runs at 8:00 AM UTC daily
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -66,6 +66,7 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           
-          # Only commit if files changed
-          git add featured-photo.jpg "$README_FILE"
+          # FIX: We explicitly use "Readme.md" here instead of the empty variable
+          git add featured-photo.jpg Readme.md
+          
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile photo and alt text" && git push)
