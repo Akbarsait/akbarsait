@@ -15,6 +15,11 @@ Beyond the screen: family, learning, and a loyal Android user 🤖
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Knowledge Base with VuePress](https://akbarsait.com/blog/2025/12/31/a-simple-knowledge-base-with-VuePress/)
+- [My Notes - Understanding AI Agents from Scratch](https://akbarsait.com/blog/2025/05/31/mynotes-understanding-ai-agents-from-scratch/)
+- [Exploring AI Agents and Related Article Links](https://akbarsait.com/blog/2025/04/30/learning-about-ai-agents/)
+- [Using GraphQL with Contentful CMS](https://akbarsait.com/blog/2025/03/02/using-graphql-with-contentfulcms/)
+- [Exploring and Getting Started with Contentful CMS](https://akbarsait.com/blog/2025/02/09/exploring-and-getting-started-with-contentfulcms/)
 <!-- BLOG-POST-LIST:END -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/akbarsait?style=social)](https://twitter.com/akbarsait)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akbarsait)
