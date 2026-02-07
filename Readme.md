@@ -6,6 +6,7 @@
        height="400">
 </a>
 
+![My Random Unsplash Photo](./featured-photo.jpg)
 
 Photo by [Akbarsait](https://unsplash.com/@akbarsait) on [Unsplash](https://unsplash.com/)
 
