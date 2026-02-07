@@ -12,8 +12,7 @@ I build solutions with data and cloud platforms, guided by Agile principles. A d
 Firm believer that sharing knowledge and helping others lift everyone up.
 Beyond the screen: family, learning, and a loyal Android user 🤖
 
-
-### 📝 Latest Blog Posts
+### Latest Blog Posts
 [![Twitter Follow](https://img.shields.io/twitter/follow/akbarsait?style=social)](https://twitter.com/akbarsait)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akbarsait)
 ![GitHub followers](https://img.shields.io/github/followers/akbarsait?style=social)
