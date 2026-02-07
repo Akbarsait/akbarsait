@@ -1,5 +1,5 @@
 <a href="https://akbarsait.com" title="Visit Akbar's Portfolio">
-  <img src="https://eo9ps6pox0whzvh.m.pipedream.net" 
+  <img src="https://eo9ps6pox0whzvh.m.pipedream.net?v=3" 
        alt="Random nature photo from Akbar's Unsplash gallery" 
        title="Random photo by Akbar Noormohamed - Click to visit portfolio"
        width="800" 
