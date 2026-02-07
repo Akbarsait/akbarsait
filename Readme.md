@@ -1,6 +1,6 @@
 ![My Random Unsplash Photo](./featured-photo.jpg)
 
-Nature Pictures from [Akbar Noormohamed's](https://unsplash.com/@akbarsait) on [Unsplash gallery](https://unsplash.com/)
+Nature pictures from [Akbar Noormohamed's](https://unsplash.com/@akbarsait) [Unsplash gallery](https://unsplash.com/@akbarsait)
 
 # Greetings 👋🏾
 
