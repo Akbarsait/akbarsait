@@ -35,9 +35,6 @@ Beyond the screen: family, learning, and a loyal Android user 🤖
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarsait&show_icons=true&theme=tokyonight" alt="Akbar's GitHub Stats" width="450" />
-</p>
+
 ---
 ⭐️ From [Akbarsait](https://www.akbarsait.com/)<br>
