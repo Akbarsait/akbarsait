@@ -13,9 +13,8 @@ Firm believer that sharing knowledge and helping others lift everyone up.
 Beyond the screen: family, learning, and a loyal Android user 🤖
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/akbarsait?style=social)](https://twitter.com/akbarsait)
-<a href="https://twitter.com/Akbarsait"><img src="https://img.shields.io/twitter/follow/Akbarsait?label=Twitter&style=social" alt="Twitter"></a> 
-[![Linkedin:](https://img.shields.io/badge/-Akbarsait-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akbarsait/)](https://www.linkedin.com/in/akbarsait/)
-<a href="https://github.com/Akbarsait"><img src="https://img.shields.io/github/followers/Akbarsait?label=GitHub&style=social" alt="GitHub"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akbarsait)
+![GitHub followers](https://img.shields.io/github/followers/akbarsait?style=social)
 
 ---
 ⭐️ From [Akbarsait](https://www.akbarsait.com/)<br>
