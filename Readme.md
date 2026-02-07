@@ -14,13 +14,7 @@ Beyond the screen: family, learning, and a loyal Android user 🤖
 
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [A Simple Knowledge Base with VuePress](https://akbarsait.com/blog/2025/12/31/a-simple-knowledge-base-with-VuePress/)
-- [My Notes - Understanding AI Agents from Scratch](https://akbarsait.com/blog/2025/05/31/mynotes-understanding-ai-agents-from-scratch/)
-- [Exploring AI Agents and Related Article Links](https://akbarsait.com/blog/2025/04/30/learning-about-ai-agents/)
-- [Using GraphQL with Contentful CMS](https://akbarsait.com/blog/2025/03/02/using-graphql-with-contentfulcms/)
-- [Exploring and Getting Started with Contentful CMS](https://akbarsait.com/blog/2025/02/09/exploring-and-getting-started-with-contentfulcms/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://akbarsait.com/blog/2025/12/31/a-simple-knowledge-base-with-VuePress/" target="_blank" rel="noopener noreferrer">A Simple Knowledge Base with VuePress</a></li><li><a href="https://akbarsait.com/blog/2025/05/31/mynotes-understanding-ai-agents-from-scratch/" target="_blank" rel="noopener noreferrer">My Notes - Understanding AI Agents from Scratch</a></li><li><a href="https://akbarsait.com/blog/2025/04/30/learning-about-ai-agents/" target="_blank" rel="noopener noreferrer">Exploring AI Agents and Related Article Links</a></li><li><a href="https://akbarsait.com/blog/2025/03/02/using-graphql-with-contentfulcms/" target="_blank" rel="noopener noreferrer">Using GraphQL with Contentful CMS</a></li><li><a href="https://akbarsait.com/blog/2025/02/09/exploring-and-getting-started-with-contentfulcms/" target="_blank" rel="noopener noreferrer">Exploring and Getting Started with Contentful CMS</a></li><!-- BLOG-POST-LIST:END -->
 <br>
 
 <p align="left">
