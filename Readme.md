@@ -1,4 +1,4 @@
-![My Random Unsplash Photo](./featured-photo.jpg)
+![My Unsplash Photo](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's](https://unsplash.com/@akbarsait) [Unsplash gallery](https://unsplash.com/@akbarsait)
 
