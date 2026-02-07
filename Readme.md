@@ -4,9 +4,13 @@ Photo by [Akbarsait](https://unsplash.com/@akbarsait) on [Unsplash](https://unsp
 
 # Greetings 👋🏾
 
-I am Akbar Noormohamed (Akbar). Husband and father of two lovely kids. I work as a tech consultant in Toronto, Canada. An avid learner of web and data platforms and a practicing Data, Cloud, and Agile Enthusiast, and an all-time Android fan.
+Akbar Noormohamed
+📍 Toronto, Canada | 👨‍👩‍👧‍👦 | Tech Consultant
 
-A firm believer in education, continuous learning, and helping one another are the core principles that elevate people.
+I build solutions with data and cloud platforms, guided by Agile principles. A dedicated practitioner and continuous learner passionate about the full web-to-data stack.
+
+Firm believer that sharing knowledge and helping others lift everyone up.
+Beyond the screen: family, learning, and a loyal Android user 🤖
 
 <a href="https://twitter.com/Akbarsait"><img src="https://img.shields.io/twitter/follow/Akbarsait?label=Twitter&style=social" alt="Twitter"></a> 
 [![Linkedin:](https://img.shields.io/badge/-Akbarsait-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akbarsait/)](https://www.linkedin.com/in/akbarsait/)
