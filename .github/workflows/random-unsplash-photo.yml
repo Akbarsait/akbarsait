@@ -1,4 +1,17 @@
-steps:
+name: Update Unsplash Photo
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs at 8:00 AM UTC daily
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-photo:
+    runs-on: ubuntu-latest
+    steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
@@ -7,21 +20,21 @@ steps:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           UNSPLASH_USERNAME: akbarsait
         run: |
-          # Setup filenames - UPDATED HERE
+          # Setup filenames
           TEMP_FILE="temp_image.jpg"
           TARGET_FILE="featured-photo.jpg"
-          README_FILE="Readme.md"  # <--- Matches your exact filename now
+          README_FILE="Readme.md"
           
           echo "Fetching random photo data..."
           
-          # 1. Fetch the JSON data from Unsplash API
+          # 1. Fetch JSON data
           RESPONSE_JSON=$(curl -s -f -H "Authorization: Client-ID $UNSPLASH_ACCESS_KEY" \
             "https://api.unsplash.com/photos/random?username=$UNSPLASH_USERNAME&orientation=landscape")
           
-          # Check if the API call was successful
+          # Check success
           if [ $? -eq 0 ] && [ -n "$RESPONSE_JSON" ]; then
             
-            # 2. Extract URL and Description
+            # 2. Extract Data
             PHOTO_URL=$(echo "$RESPONSE_JSON" | jq -r '.urls.regular')
             RAW_ALT=$(echo "$RESPONSE_JSON" | jq -r '.alt_description // .description // "My Unsplash Photo"')
             CLEAN_ALT=$(echo "$RAW_ALT" | tr -cd '[:alnum:] .,-')
@@ -29,20 +42,20 @@ steps:
             echo "Found photo: $CLEAN_ALT"
             echo "Downloading from: $PHOTO_URL"
             
-            # 3. Download image to temp file
+            # 3. Download
             if curl -s -f -o "$TEMP_FILE" "$PHOTO_URL"; then
               echo "✅ Download successful."
               mv "$TEMP_FILE" "$TARGET_FILE"
               
-              # 4. Update the README alt text
+              # 4. Update README alt text
               sed -i "s|!\[.*\](\./featured-photo.jpg)|![$CLEAN_ALT](./featured-photo.jpg)|" "$README_FILE"
               
             else
-              echo "⚠️ Image download failed. Keeping existing photo."
+              echo "⚠️ Download failed. Keeping old photo."
             fi
             
           else
-             echo "⚠️ API request failed. Keeping existing photo."
+             echo "⚠️ API request failed. Keeping old photo."
           fi
           
           # Cleanup
@@ -52,5 +65,7 @@ steps:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
+          
+          # Only commit if files changed
           git add featured-photo.jpg "$README_FILE"
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile photo and alt text" && git push)
