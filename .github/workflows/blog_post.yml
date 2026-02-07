@@ -1,8 +1,8 @@
 name: Latest Blog Post Workflow
 on:
-  schedule:
+  schedule: # Run automatically every day at midnight
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Run manually whenever you want
 
 jobs:
   update-readme-with-blog:
@@ -12,15 +12,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # DEBUG STEP: This will print the exact file content to the logs
-       - name: 🔍 Debug Readme
-        run: cat Readme.md
-        
       - name: Pull in akbarsait.com posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          # Your correct RSS feed URL
           feed_list: "https://akbarsait.com/blog.rss"
+          
+          # Your specific filename (Capital R)
           readme_path: "Readme.md"
+          
+          # Show the last 5 posts
           max_post_count: 5
-          # ADD THIS NEW LINE BELOW:
+          
+          # HTML template to open links in a new tab
           template: '<li><a href="$url" target="_blank" rel="noopener noreferrer">$title</a></li>'
