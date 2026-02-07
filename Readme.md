@@ -1,6 +1,6 @@
 ![My Unsplash Photo](./featured-photo.jpg)
 
-Nature pictures from [Akbar Noormohamed's](https://akbarsait.com) [Unsplash Gallery](https://unsplash.com/@akbarsait)
+Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
 # Greetings 👋🏾
 
@@ -17,9 +17,9 @@ Beyond the screen: family, learning, and a loyal Android user 🤖
 [![Twitter Follow](https://img.shields.io/twitter/follow/akbarsait?style=social)](https://twitter.com/akbarsait)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akbarsait)
 ![GitHub followers](https://img.shields.io/github/followers/akbarsait?style=social)
+
 ### 📊 GitHub Stats
 ![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarsait&show_icons=true&theme=tokyonight)
 
 ---
 ⭐️ From [Akbarsait](https://www.akbarsait.com/)<br>
-<!--[![Akbarsait's github stats](https://github-readme-stats.vercel.app/api?username=akbarsait&count_private=true&hide=contribs,prs)](https://github.com/akbarsait/github-readme-stats)-->
