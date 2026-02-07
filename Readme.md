@@ -21,12 +21,23 @@ Beyond the screen: family, learning, and a loyal Android user 🤖
 - [Using GraphQL with Contentful CMS](https://akbarsait.com/blog/2025/03/02/using-graphql-with-contentfulcms/)
 - [Exploring and Getting Started with Contentful CMS](https://akbarsait.com/blog/2025/02/09/exploring-and-getting-started-with-contentfulcms/)
 <!-- BLOG-POST-LIST:END -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/akbarsait?style=social)](https://twitter.com/akbarsait)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akbarsait)
-![GitHub followers](https://img.shields.io/github/followers/akbarsait?style=social)
+<br>
+
+<p align="left">
+  <a href="https://twitter.com/akbarsait" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/akbarsait?style=social" alt="Twitter Follow">
+  </a>
+  &nbsp; <a href="https://www.linkedin.com/in/akbarsait" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp; <a href="https://github.com/akbarsait">
+    <img src="https://img.shields.io/github/followers/akbarsait?style=social" alt="GitHub followers">
+  </a>
+</p>
 
 ### 📊 GitHub Stats
-![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarsait&show_icons=true&theme=tokyonight)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbarsait&show_icons=true&theme=tokyonight" alt="Akbar's GitHub Stats" width="450" />
+</p>
 ---
 ⭐️ From [Akbarsait](https://www.akbarsait.com/)<br>
