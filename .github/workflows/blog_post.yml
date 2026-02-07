@@ -12,14 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # DEBUG STEP: This will print your file to the logs
-      - name: 🔍 Debug - Show Readme Content
-        run: |
-          echo "Listing files in current folder:"
-          ls -R
-          echo "--------------------------------"
-          echo "Printing content of Readme.md:"
-          cat Readme.md
+      # DEBUG STEP: This will print the exact file content to the logs
+      - name: 🔍 Debug Readme
+        run: cat Readme.md
 
       - name: Pull in akbarsait.com posts
         uses: gautamkrishnar/blog-post-workflow@master
