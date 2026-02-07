@@ -17,4 +17,4 @@ jobs:
           # REPLACE THIS URL WITH YOUR ACTUAL RSS FEED URL
           feed_list: "https://akbarsait.com/blog.rss" 
           max_post_count: 5
-          readme_path: "Readme.md" # Matches your filename
+          readme_path: "Readme.md"
