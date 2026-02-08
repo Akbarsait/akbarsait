@@ -25,4 +25,4 @@ jobs:
           max_post_count: 5
           
           # HTML template to open links in a new tab
-          template: '<li> <a href="$url" target="_blank" rel="noopener noreferrer">$title</a></li>'
+          template: '👉 <a href="$url" target="_blank" rel="noopener noreferrer">$title</a>'
