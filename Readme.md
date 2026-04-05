@@ -1,4 +1,4 @@
-![The wonderful bridge](./featured-photo.jpg)
+![strawberries in brown cardboard box](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
