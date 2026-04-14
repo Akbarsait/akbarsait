@@ -1,4 +1,4 @@
-![a large white ferry boat in the water](./featured-photo.jpg)
+![Nature and Bird](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
