@@ -1,4 +1,4 @@
-![waterfalls during daytime](./featured-photo.jpg)
+![The view of seam bridge](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
