@@ -1,4 +1,4 @@
-![The view of seam bridge](./featured-photo.jpg)
+![a large white ferry boat in the water](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
