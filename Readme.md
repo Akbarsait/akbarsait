@@ -1,4 +1,4 @@
-![waterfalls view during dayitme](./featured-photo.jpg)
+![Long view water and buildings ](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
