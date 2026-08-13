@@ -1,4 +1,4 @@
-![Clear water](./featured-photo.jpg)
+![green trees near body of water during daytime](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
