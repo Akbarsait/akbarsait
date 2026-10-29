@@ -1,4 +1,4 @@
-![white and blue boat at the river during daytime](./featured-photo.jpg)
+![Liberty Ferry Rock](./featured-photo.jpg)
 
 Nature pictures from [Akbar Noormohamed's Unsplash Gallery](https://unsplash.com/@akbarsait)
 
